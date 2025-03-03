@@ -1,2 +1,2 @@
 # op_git_test
-Odin Project Repo
+Odin Project Repo for my Personal Odin Projects.
